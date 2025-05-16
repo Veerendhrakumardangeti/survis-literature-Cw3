@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Deep learning for personalized health monitoring and prediction: review",
+        "authors": "Rajesh Kandala N V P S, Robertas Damasevicius, Senthil Kumar J. P., et al.",
+        "year": 2023,
+        "tags": [
+            "Survey",
+            "XAI",
+            "Deep Learning",
+            "Personalized Health"
+        ],
+        "link": "https://doi.org/10.1111/coin.12682"
+    },
+    {
+        "title": "The Use of Explainable Artificial Intelligence in Medicine",
+        "authors": "Wen, B. & Chaddad, A.",
+        "year": 2023,
+        "tags": [
+            "XAI",
+            "Medicine",
+            "Healthcare",
+            "Ethics"
+        ],
+        "link": "https://doi.org/10.1109/Healthcom56612.2023.10472365"
+    },
+    {
+        "title": "Attention-Based Explainable AI for Wearable Multivariate Data: A Case Study on Affect Status Prediction",
+        "authors": "Yuning Wang, Zhongqi Yan",
+        "year": 2024,
+        "tags": [
+            "XAI",
+            "Wearables",
+            "Affect Prediction",
+            "Deep Learning"
+        ],
+        "link": "https://doi.org/10.1109/BSN63547.2024.10780702"
+    },
+    {
+        "title": "Explainable Machine Learning Model for Predicting First-Time Acute Exacerbation in COPD Patients",
+        "authors": "Chew-Teng Kor, Yi-Rong Li, Pei-Ru Lin, et al.",
+        "year": 2022,
+        "tags": [
+            "XAI",
+            "Chronic Disease",
+            "Prediction",
+            "COPD"
+        ],
+        "link": "https://doi.org/10.3390/jpm12020228"
+    },
+    {
+        "title": "Consistent individualized feature attribution for tree ensembles",
+        "authors": "Scott M. Lundberg, Gabriel G. Erion, and Su-In Lee",
+        "year": 2019,
+        "tags": [
+            "SHAP",
+            "XAI",
+            "Model Explanation",
+            "Feature Attribution"
+        ],
+        "link": "https://doi.org/10.48550/arXiv.1802.03888"
+    },
+    {
+        "title": "Explainable AI (XAI) in Healthcare - Tools and Regulations",
+        "authors": "Pawe\u0142 Raif, Renata Suchanek-Raif, Ewaryst Tkacz",
+        "year": 2023,
+        "tags": [
+            "XAI",
+            "Healthcare",
+            "Regulation",
+            "Tools"
+        ],
+        "link": "https://doi.org/10.1109/IEEECONF58974.2023.10405096"
+    },
+    {
+        "title": "An Overview for Trustworthy and Explainable Artificial Intelligence in Healthcare",
+        "authors": "Arslano\u011flu, K. & Karak\u00f6se, M.",
+        "year": 2024,
+        "tags": [
+            "XAI",
+            "Trust",
+            "Healthcare",
+            "Survey"
+        ],
+        "link": "https://doi.org/10.1109/IT61232.2024.10475733"
+    },
+    {
+        "title": "Applying Artificial Intelligence to Wearable Sensor Data to Diagnose and Predict Cardiovascular Disease: A Review",
+        "authors": "Huang, J.D, Jinling Wang, Elaine Ramsey, et al.",
+        "year": 2022,
+        "tags": [
+            "XAI",
+            "Wearables",
+            "Cardiovascular",
+            "Deep Learning"
+        ],
+        "link": "https://doi.org/10.3390/s22208002"
+    },
+    {
+        "title": "Explainable artificial intelligence (XAI) in deep learning-based medical image analysis",
+        "authors": "Vander Velden, Bas H.M, Hugo J. Kuijf, et al.",
+        "year": 2022,
+        "tags": [
+            "XAI",
+            "Medical Imaging",
+            "Deep Learning",
+            "Survey"
+        ],
+        "link": "https://doi.org/10.1016/j.media.2022.102470"
+    },
+    {
+        "title": "Peeking inside the black-box: A survey on Explainable Artificial Intelligence (XAI)",
+        "authors": "Adadi, A., & Berrada, M.",
+        "year": 2018,
+        "tags": [
+            "XAI",
+            "Survey",
+            "Foundational",
+            "Interpretability"
+        ],
+        "link": "https://doi.org/10.1109/ACCESS.2018.2870052"
+    }
+]
